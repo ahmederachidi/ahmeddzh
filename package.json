@@ -1,9 +1,9 @@
  "name": "Test",
   "description": "Test",
   "version": "0.0.0",
-  "main": "bot.js",
+  "main": "blacko.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node blacko.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
