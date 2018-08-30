@@ -1,1 +1,1 @@
-worker: node Blacko.js
+worker: node blacko.js
